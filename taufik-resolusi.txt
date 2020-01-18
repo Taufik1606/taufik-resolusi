@@ -2,3 +2,4 @@ Resolusi saya ditahun 2020
 - menguasai bahasa flutter
 - mengusasai kotlin
 - menguasai databse
+- membuat portofolio untuk karir
